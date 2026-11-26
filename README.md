@@ -39,3 +39,4 @@ GITHUB_TOKEN = "your_token_here"
 
 A read-only token for public repositories is enough. Never commit this file.
 
+https://app-profile-analyzer-3p5kkpwhdksjdarpku69jh.streamlit.app/
